@@ -1,4 +1,4 @@
-# React 19 Training Ground
+# React 19 + Tailwind Training Ground
 
 ## Download
 
